@@ -1,0 +1,7 @@
+{
+  "name": "ChatGPT 6 Plus",
+  "description": "A responsive, mobile-first AI chatbot interface with multi-chat management, search, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
